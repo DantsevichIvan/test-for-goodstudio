@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/test-for-goodstudio/static/css/main.5ce9e6e2.chunk.css",
+    "main.js": "/test-for-goodstudio/static/js/main.8d1ddbbc.chunk.js",
+    "main.js.map": "/test-for-goodstudio/static/js/main.8d1ddbbc.chunk.js.map",
+    "runtime-main.js": "/test-for-goodstudio/static/js/runtime-main.db029f42.js",
+    "runtime-main.js.map": "/test-for-goodstudio/static/js/runtime-main.db029f42.js.map",
+    "static/css/2.c8fdb744.chunk.css": "/test-for-goodstudio/static/css/2.c8fdb744.chunk.css",
+    "static/js/2.5e829d5d.chunk.js": "/test-for-goodstudio/static/js/2.5e829d5d.chunk.js",
+    "static/js/2.5e829d5d.chunk.js.map": "/test-for-goodstudio/static/js/2.5e829d5d.chunk.js.map",
+    "index.html": "/test-for-goodstudio/index.html",
+    "precache-manifest.4d928dac7d183a246c27489540356548.js": "/test-for-goodstudio/precache-manifest.4d928dac7d183a246c27489540356548.js",
+    "service-worker.js": "/test-for-goodstudio/service-worker.js",
+    "static/css/2.c8fdb744.chunk.css.map": "/test-for-goodstudio/static/css/2.c8fdb744.chunk.css.map",
+    "static/css/main.5ce9e6e2.chunk.css.map": "/test-for-goodstudio/static/css/main.5ce9e6e2.chunk.css.map",
+    "static/js/2.5e829d5d.chunk.js.LICENSE.txt": "/test-for-goodstudio/static/js/2.5e829d5d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db029f42.js",
+    "static/css/2.c8fdb744.chunk.css",
+    "static/js/2.5e829d5d.chunk.js",
+    "static/css/main.5ce9e6e2.chunk.css",
+    "static/js/main.8d1ddbbc.chunk.js"
+  ]
+}
